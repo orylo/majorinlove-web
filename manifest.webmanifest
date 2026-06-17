@@ -1,0 +1,10 @@
+{
+  "name": "전공은 연애!",
+  "short_name": "전공은연애",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#0c0c10",
+  "icons": []
+}
